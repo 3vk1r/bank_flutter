@@ -1,0 +1,74 @@
+
+{
+  "@@locale": "en",
+
+  "appTitle": "Exchange Rates and News",
+
+  "currency": "Exchange Rates",
+  "news": "News",
+  "profile": "Profile",
+
+  "user": "User",
+
+  "theme": "App Theme",
+  "lightTheme": "Light",
+  "darkTheme": "Dark",
+  "systemTheme": "System default",
+  "chooseTheme": "Choose a theme",
+
+  "dataSource": "Data Source",
+  "internet": "Internet",
+  "localCache": "Local cache",
+  "remoteDataDescription": "Get up-to-date data from the server",
+  "localDataDescription": "Use saved data",
+
+  "clearCache": "Clear cache",
+  "clearCacheDescription": "Delete saved exchange rates and news",
+  "cacheCleared": "Cache cleared",
+
+  "logout": "Log out",
+  "logoutSuccess": "You have logged out",
+
+    "nominal": "{count, plural, =1{Nominal: 1 pc.} other{Nominal: {count} pcs.}}",
+    "@nominal": {
+    "description": "Currency nominal with the correct plural form",
+    "placeholders": {
+        "count": {
+        "type": "int"
+        }
+    }
+},
+
+  "refresh": "Refresh",
+  "searchNews": "Search news",
+  "searchCurrency": "Search currency",
+  "clear": "Clear",
+
+  "invalidLink": "Invalid link",
+  "openLinkError": "Failed to open the link",
+
+  "loading": "Loading...",
+  "error": "Error",
+  "retry": "Retry",
+
+  "noSavedNews": "No saved news",
+  "newsNotFound": "No news found",
+  "open": "Open",
+
+  "noSavedData": "No saved data",
+  "currencyDataError": "Failed to get exchange rate data",
+  "currencyLoadError": "Failed to load exchange rates",
+  "dataLoadError": "An error occurred while loading data",
+  "currencyNotFound": "Currency not found",
+
+  "localNewsCacheEmpty": "Local news cache is empty",
+  "newsDataError": "Failed to get news",
+  "newsLoadError": "Failed to load news",
+  "newsLoadingError": "An error occurred while loading news",
+
+  "loginSuccess": "Login successful",
+  "welcome": "Welcome",
+  "loginDescription": "Please log in to continue",
+  "login": "Log in"
+}
+

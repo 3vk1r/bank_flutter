@@ -1,0 +1,74 @@
+
+{
+  "@@locale": "ru",
+
+  "appTitle": "Курс валют и новости",
+
+  "currency": "Курс валют",
+  "news": "Новости",
+  "profile": "Профиль",
+
+  "user": "Пользователь",
+
+  "theme": "Тема приложения",
+  "lightTheme": "Светлая",
+  "darkTheme": "Тёмная",
+  "systemTheme": "Как в системе",
+  "chooseTheme": "Выберите тему",
+
+  "dataSource": "Источник данных",
+  "internet": "Интернет",
+  "localCache": "Локальный кэш",
+  "remoteDataDescription": "Получать актуальные данные с сервера",
+  "localDataDescription": "Использовать сохранённые данные",
+
+  "clearCache": "Очистить кэш",
+  "clearCacheDescription": "Удалить сохранённые курсы валют и новости",
+  "cacheCleared": "Кэш очищен",
+
+  "logout": "Выйти",
+  "logoutSuccess": "Вы вышли из аккаунта",
+
+    "nominal": "{count, plural, =1{Номинал: 1 единица} few{Номинал: {count} единицы} many{Номинал: {count} единиц} other{Номинал: {count} единицы}}",
+    "@nominal": {
+    "description": "Номинал валюты с правильной формой слова",
+    "placeholders": {
+        "count": {
+        "type": "int"
+        }
+    }
+},
+
+  "refresh": "Обновить",
+  "searchNews": "Поиск новостей",
+  "searchCurrency": "Поиск валюты",
+  "clear": "Очистить",
+
+  "invalidLink": "Некорректная ссылка",
+  "openLinkError": "Не удалось открыть ссылку",
+
+  "loading": "Загрузка...",
+  "error": "Ошибка",
+  "retry": "Повторить",
+
+  "noSavedNews": "Нет сохранённых новостей",
+  "newsNotFound": "Новости не найдены",
+  "open": "Открыть",
+
+  "noSavedData": "Нет сохранённых данных",
+  "currencyDataError": "Не удалось получить данные о курсах валют",
+  "currencyLoadError": "Не удалось загрузить курсы валют",
+  "dataLoadError": "Произошла ошибка при загрузке данных",
+  "currencyNotFound": "Валюта не найдена",
+
+  "localNewsCacheEmpty": "Локальный кэш новостей пуст",
+  "newsDataError": "Не удалось получить новости",
+  "newsLoadError": "Не удалось загрузить новости",
+  "newsLoadingError": "Произошла ошибка при загрузке новостей",
+
+  "loginSuccess": "Вход выполнен",
+  "welcome": "Добро пожаловать",
+  "loginDescription": "Для продолжения выполните вход в приложение",
+  "login": "Войти"
+}
+
